@@ -1,2 +1,2 @@
-import numpy
-print(numpy.random.rand())
+import numpy as np
+print(np.random.rand())
